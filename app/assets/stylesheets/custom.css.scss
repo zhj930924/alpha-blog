@@ -3,6 +3,7 @@ $navbar-default-bg: #696969;
 @import "bootstrap-sprockets";
 @import "bootstrap";
 
+
 #logo {
   float: left;
   font-size: 1.7em;
@@ -51,6 +52,17 @@ $navbar-default-bg: #696969;
 
 .description {
   margin-top: 0px;
+}
+
+.article-title {
+  font-weight: bold;
+  font-size: 1.5em;
+}
+
+.article-body {
+  border-top: 1px solid #eaeaea;
+  padding-top: 15px;
+  padding-bottom: 15px;
 }
 
 footer {
