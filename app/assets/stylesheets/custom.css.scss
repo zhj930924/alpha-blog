@@ -1,3 +1,4 @@
+/* to code out lines */
 $navbar-default-bg: #696969;
 
 @import "bootstrap-sprockets";
@@ -43,6 +44,11 @@ $navbar-default-bg: #696969;
 .btn-xlarge {
   font-size: 1.7em;
   background-color: black;
+}
+
+.article-meta-details {
+  border-top: 1px solid #eaeaea;
+  margin-top: 15px;
 }
 
 .article-actions {
